@@ -12,3 +12,4 @@ ai_src/obj/*
 *.ll
 raw_log
 match_result*
+tactics.json
